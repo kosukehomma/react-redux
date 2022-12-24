@@ -1,12 +1,15 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-
-function App() {
-  return <h1>Hello React!</h1>
-}
+import { GlobalStyle } from './GlobalStyle'
+import { App } from './App'
 
 const container = document.getElementById('app')
 if (container) {
   const root = createRoot(container)
-  root.render(<App />)
+  root.render(
+  <>
+    <GlobalStyle />
+    <App />
+  </>
+  )
 }

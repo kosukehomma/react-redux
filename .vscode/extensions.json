@@ -2,6 +2,9 @@
   // See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
   "recommendations": [
     // Prettierをフォーマットとして使う
-    "esbenp.prettier-vscode"
+    "esbenp.prettier-vscode",
+
+    // styled-componentsのシンタックスハイライトを有効にする
+    "styled-components.vscode-styled-components"
   ]
 }
