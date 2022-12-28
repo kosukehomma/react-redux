@@ -4,6 +4,9 @@
     // Prettierをフォーマットとして使う
     "esbenp.prettier-vscode",
 
+    // ESLintの警告をリアルタイムで表示する
+    "dbaeumer.vscode-eslint",
+
     // styled-componentsのシンタックスハイライトを有効にする
     "styled-components.vscode-styled-components"
   ]
