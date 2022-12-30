@@ -35,19 +35,34 @@
       "text": "朝食をとる🍞"
     },
     {
-      "id": "ulnuLLt5TN93",
-      "text": "SNSをチェックする🐦"
+      "id": "PGUqXjH81qvN",
+      "text": "aaaa"
+    },
+    {
+      "id": "9qsttWp3m8zA",
+      "text": "bbbb"
+    },
+    {
+      "id": "lvAF86xx9Nbf",
+      "text": "布団を畳む"
+    },
+    {
+      "id": "ySJ--K0v6MQp",
+      "text": "朝風呂に入る"
     }
   ],
   "cardsOrder": {
-    "cXrtw5n8-FsB": "ulnuLLt5TN93",
-    "w7DTqK1QQKTI": "rh022hj9zG58",
-    "bfrqTfEydU38": "bfrqTfEydU38",
+    "cXrtw5n8-FsB": "9qsttWp3m8zA",
+    "w7DTqK1QQKTI": "3NRSLMq49xvT",
+    "bfrqTfEydU38": "ySJ--K0v6MQp",
     "dfwMbxZS0EmM": "7lR4Vd3EYixP",
     "7lR4Vd3EYixP": "dfwMbxZS0EmM",
     "TsXP5w9qLeM-": "cXrtw5n8-FsB",
-    "rh022hj9zG58": "3NRSLMq49xvT",
-    "3NRSLMq49xvT": "w7DTqK1QQKTI",
-    "ulnuLLt5TN93": "TsXP5w9qLeM-"
+    "rh022hj9zG58": "TsXP5w9qLeM-",
+    "3NRSLMq49xvT": "lvAF86xx9Nbf",
+    "PGUqXjH81qvN": "rh022hj9zG58",
+    "9qsttWp3m8zA": "PGUqXjH81qvN",
+    "lvAF86xx9Nbf": "w7DTqK1QQKTI",
+    "ySJ--K0v6MQp": "bfrqTfEydU38"
   }
 }

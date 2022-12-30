@@ -38,12 +38,12 @@ export type ReqAndRes = {
 
   'GET /v1/cardsOrder': {
     req: null
-    res: Record<string, CardID | ColumnID>
+    res: Record<string, CardID | ColumnID | null>
   }
 
   'PATCH /v1/cardsOrder': {
-    req: Record<string, CardID | ColumnID>
-    res: Record<string, CardID | ColumnID>
+    req: Record<string, CardID | ColumnID | null>
+    res: Record<string, CardID | ColumnID | null>
   }
 }
 
@@ -51,7 +51,7 @@ export const Endpoint = process.env.API_ENDPOINT || 'http://localhost:3000/api'
 
 export async function api<K extends keyof ReqAndRes>(
   key: K,
-  payload: ReqAndRes[K]['req'],
+  payload: ReqAndRes[K]['req'] ,
 ): Promise<ReqAndRes[K]['res']> {
   const [method, path] = key.split(' ')
   if (!method || !path) {
@@ -63,7 +63,7 @@ export async function api<K extends keyof ReqAndRes>(
   switch (option.method) {
     case 'GET':
     case 'DELETE':
-      if (payload && 'id' in payload) {
+      if (payload && 'id' in payload ) {
         pathWithID = `${path}/${payload.id}`
       }
       break
