@@ -35,10 +35,6 @@
       "text": "朝食をとる🍞"
     },
     {
-      "id": "PGUqXjH81qvN",
-      "text": "aaaa"
-    },
-    {
       "id": "9qsttWp3m8zA",
       "text": "bbbb"
     },
@@ -49,20 +45,24 @@
     {
       "id": "ySJ--K0v6MQp",
       "text": "朝風呂に入る"
+    },
+    {
+      "id": "6Nkdn9BwuPb_",
+      "text": "髪型をセットする"
     }
   ],
   "cardsOrder": {
-    "cXrtw5n8-FsB": "9qsttWp3m8zA",
-    "w7DTqK1QQKTI": "3NRSLMq49xvT",
+    "cXrtw5n8-FsB": "6Nkdn9BwuPb_",
+    "w7DTqK1QQKTI": "lvAF86xx9Nbf",
     "bfrqTfEydU38": "ySJ--K0v6MQp",
     "dfwMbxZS0EmM": "7lR4Vd3EYixP",
     "7lR4Vd3EYixP": "dfwMbxZS0EmM",
     "TsXP5w9qLeM-": "cXrtw5n8-FsB",
-    "rh022hj9zG58": "TsXP5w9qLeM-",
-    "3NRSLMq49xvT": "lvAF86xx9Nbf",
-    "PGUqXjH81qvN": "rh022hj9zG58",
-    "9qsttWp3m8zA": "PGUqXjH81qvN",
-    "lvAF86xx9Nbf": "w7DTqK1QQKTI",
-    "ySJ--K0v6MQp": "bfrqTfEydU38"
+    "rh022hj9zG58": "3NRSLMq49xvT",
+    "3NRSLMq49xvT": "w7DTqK1QQKTI",
+    "9qsttWp3m8zA": "TsXP5w9qLeM-",
+    "lvAF86xx9Nbf": "rh022hj9zG58",
+    "ySJ--K0v6MQp": "bfrqTfEydU38",
+    "6Nkdn9BwuPb_": "9qsttWp3m8zA"
   }
 }
